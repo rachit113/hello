@@ -1,5 +1,5 @@
 /**
- * Author: Zijie Dong  Rachit Rajiv 
+ * Author: Zijie Dong  Rachit Rajiv
  * Date: 2019/08/27
  *
  * A simple hello world program in C
@@ -10,7 +10,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Zijie Dong Rachit Rajiv \n");
+  printf("Rachit Rajiv \n");
+  printf("Computer Engineering\n");
 
   return 0;
 }
